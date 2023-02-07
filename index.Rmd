@@ -14,7 +14,7 @@ description: "This is the EPPIcenter lab handbook. The output format for this ex
 # Welcome {-}
 
 ```{r echo=FALSE, out.width="80%"}
-knitr::include_graphics("/images/logo.png")
+knitr::include_graphics("images/logo.png")
 ```
 
 The [EPPIcenter](https://eppicenter.ucsf.edu/) is a program based within the Division of HIV, ID and Global Medicine at UCSF, dedicated to the interdisciplinary study of infectious disease transmission.
