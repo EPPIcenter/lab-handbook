@@ -1,6 +1,6 @@
 --- 
 title: "EPPIcenter Lab Handbook"
-author: " "
+author: "Friendly folks at EPPIcenter"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -18,10 +18,10 @@ knitr::include_graphics("images/logo.png")
 
 The [EPPIcenter](https://eppicenter.ucsf.edu/) is a program based within the Division of HIV, ID and Global Medicine at UCSF, dedicated to the interdisciplinary study of infectious disease transmission.
 
-## Mission {-}
+## Mission 
 We aim to advance the understanding of infectious diseases to reduce global morbidity and mortality through a systems epidemiology approach that links pipettes to populations by integrating state-of-the-art data collection, molecular technologies, and computational analysis.
 
-## Vision {-}
+## Vision 
 This highly collaborative, interdisciplinary program will catalyze understanding of complex infectious disease dynamics. We will decode and synthesize data from the field and the bench using novel computational models. Working closely with global health agencies, we will produce actionable insight into optimal targeting of interventions, advancing beyond what can be achieved by traditionally compartmentalized efforts and leading to more rapid reductions in infectious disease burden and eventual elimination. The Center will thus be positioned as a global leader in the fight against malaria, arboviruses, and other globally important infectious diseases, providing training opportunities and producing valuable resources (e.g. software, seminars, educational workshops) for the greater University and international community.
 
 As a program, we have two equally important goals:
@@ -31,13 +31,13 @@ As a program, we have two equally important goals:
 
 Performing high-quality research means that we undertake meaningful problems, investigate them in a rigorous way, and promptly publish our results so that others can easily pick up where we leave off. Creating an environment that promotes the growth of scientists means that we support the expansion of our own and one another’s research capacities, especially through persistent effort, curiosity, and constructive criticism.
 
-## People {-}
+## People
 The EPPIcenter consist of faculty, trainees, and staff dedicated to the interdisciplinary study of infectious disease dynamics. Each trainee/staff member may work primarily with one or multiple faculty members, but we encourage collaboration among all members of the program.  Each faculty will have specific expectations in their respective research group. However, all faculty share core values around the work environment we want to build.
 
-## Environment {-}
+## Environment 
 Our environment is one which nurtures a culture of curiosity, personal growth, scientific inquiry and collaboration. This means bringing your whole self to work, with a hard but sustainable work ethic. Good science comes from open discussion and respectful debate - challenge others, and do it in a way that communicates mutual support and respect, appreciating the luxury that you get to work with others who have different viewpoints and backgrounds. Be open to collaboration; research is more productive and fun when multiple people are involved and engaged. Ask for help, be ready to provide help, and be careful about appropriately acknowledging contributions from others. Most importantly, have fun! If you are not enjoying what you do, let’s discuss why and how we can change that.
 
-## Expectations {-}
+## Expectations 
 - Recognize that everyone regardless of job title is here to learn and wants to grow.
 - Be good members of our communities, both scientific and geographic. 
 - Feel comfortable reaching out to PIs or others in the group if you feel something could be improved, or if you feel like something inappropriate (scientific, organizationally, or interpersonal) may be going on. 
