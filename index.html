@@ -23,7 +23,6 @@
 <meta name="author" content="" />
 
 
-<meta name="date" content="2023-02-01" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -119,28 +118,6 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
-<style type="text/css">
-/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
-</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -158,19 +135,26 @@ div.csl-indent {
 <li><a href="./">EPPIcenter Lab Handbook</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prerequisites</a></li>
-<li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> Introduction</a></li>
-<li class="chapter" data-level="3" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>3</b> Literature</a></li>
-<li class="chapter" data-level="4" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>4</b> Methods</a>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a>
 <ul>
-<li class="chapter" data-level="4.1" data-path="methods.html"><a href="methods.html#math-example"><i class="fa fa-check"></i><b>4.1</b> math example</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#mission"><i class="fa fa-check"></i>Mission</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#vision"><i class="fa fa-check"></i>Vision</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#people"><i class="fa fa-check"></i>People</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#environment"><i class="fa fa-check"></i>Environment</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#expectations"><i class="fa fa-check"></i>Expectations</a></li>
 </ul></li>
-<li class="chapter" data-level="5" data-path="applications.html"><a href="applications.html"><i class="fa fa-check"></i><b>5</b> Applications</a>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>2</b> Literature</a></li>
+<li class="chapter" data-level="3" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>3</b> Methods</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="applications.html"><a href="applications.html#example-one"><i class="fa fa-check"></i><b>5.1</b> Example one</a></li>
-<li class="chapter" data-level="5.2" data-path="applications.html"><a href="applications.html#example-two"><i class="fa fa-check"></i><b>5.2</b> Example two</a></li>
+<li class="chapter" data-level="3.1" data-path="methods.html"><a href="methods.html#math-example"><i class="fa fa-check"></i><b>3.1</b> math example</a></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="final-words.html"><a href="final-words.html"><i class="fa fa-check"></i><b>6</b> Final Words</a></li>
+<li class="chapter" data-level="4" data-path="applications.html"><a href="applications.html"><i class="fa fa-check"></i><b>4</b> Applications</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="applications.html"><a href="applications.html#example-one"><i class="fa fa-check"></i><b>4.1</b> Example one</a></li>
+<li class="chapter" data-level="4.2" data-path="applications.html"><a href="applications.html#example-two"><i class="fa fa-check"></i><b>4.2</b> Example two</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="final-words.html"><a href="final-words.html"><i class="fa fa-check"></i><b>5</b> Final Words</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/EPPIcenter/lab-handbook" target="blank">Published with bookdown</a></li>
@@ -195,18 +179,50 @@ div.csl-indent {
 <div id="header">
 <h1 class="title">EPPIcenter Lab Handbook</h1>
 <p class="author"><em></em></p>
-<p class="date"><em>2023-02-01</em></p>
 </div>
-<div id="prerequisites" class="section level1 hasAnchor" number="1">
-<h1><span class="header-section-number">Chapter 1</span> Prerequisites<a href="index.html#prerequisites" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This is a lab handbook written in <strong>Markdown</strong>. You can use anything that Pandoc’s Markdown supports, e.g., a math equation <span class="math inline">\(a^2 + b^2 = c^2\)</span>.</p>
-<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>)</span>
-<span id="cb1-2"><a href="index.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># or the development version</span></span>
-<span id="cb1-3"><a href="index.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
-<p>Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading <code>#</code>.</p>
-<p>To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <a href="https://yihui.name/tinytex/" class="uri">https://yihui.name/tinytex/</a>.</p>
+<div id="welcome" class="section level1 unnumbered hasAnchor">
+<h1>Welcome<a href="index.html#welcome" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><img src="images/logo.png" width="80%" /></p>
+<p>The <a href="https://eppicenter.ucsf.edu/">EPPIcenter</a> is a program based within the Division of HIV, ID and Global Medicine at UCSF, dedicated to the interdisciplinary study of infectious disease transmission.</p>
+<div id="mission" class="section level2 unnumbered hasAnchor">
+<h2>Mission<a href="index.html#mission" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>We aim to advance the understanding of infectious diseases to reduce global morbidity and mortality through a systems epidemiology approach that links pipettes to populations by integrating state-of-the-art data collection, molecular technologies, and computational analysis.</p>
+</div>
+<div id="vision" class="section level2 unnumbered hasAnchor">
+<h2>Vision<a href="index.html#vision" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>This highly collaborative, interdisciplinary program will catalyze understanding of complex infectious disease dynamics. We will decode and synthesize data from the field and the bench using novel computational models. Working closely with global health agencies, we will produce actionable insight into optimal targeting of interventions, advancing beyond what can be achieved by traditionally compartmentalized efforts and leading to more rapid reductions in infectious disease burden and eventual elimination. The Center will thus be positioned as a global leader in the fight against malaria, arboviruses, and other globally important infectious diseases, providing training opportunities and producing valuable resources (e.g. software, seminars, educational workshops) for the greater University and international community.</p>
+<p>As a program, we have two equally important goals:</p>
+<ol style="list-style-type: decimal">
+<li>Advance the understanding of infectious diseases by performing high-quality research</li>
+<li>Create a collaborative environment that accelerates the growth of scientists and improves the practice of science</li>
+</ol>
+<p>Performing high-quality research means that we undertake meaningful problems, investigate them in a rigorous way, and promptly publish our results so that others can easily pick up where we leave off. Creating an environment that promotes the growth of scientists means that we support the expansion of our own and one another’s research capacities, especially through persistent effort, curiosity, and constructive criticism.</p>
+</div>
+<div id="people" class="section level2 unnumbered hasAnchor">
+<h2>People<a href="index.html#people" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The EPPIcenter consist of faculty, trainees, and staff dedicated to the interdisciplinary study of infectious disease dynamics. Each trainee/staff member may work primarily with one or multiple faculty members, but we encourage collaboration among all members of the program. Each faculty will have specific expectations in their respective research group. However, all faculty share core values around the work environment we want to build.</p>
+</div>
+<div id="environment" class="section level2 unnumbered hasAnchor">
+<h2>Environment<a href="index.html#environment" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Our environment is one which nurtures a culture of curiosity, personal growth, scientific inquiry and collaboration. This means bringing your whole self to work, with a hard but sustainable work ethic. Good science comes from open discussion and respectful debate - challenge others, and do it in a way that communicates mutual support and respect, appreciating the luxury that you get to work with others who have different viewpoints and backgrounds. Be open to collaboration; research is more productive and fun when multiple people are involved and engaged. Ask for help, be ready to provide help, and be careful about appropriately acknowledging contributions from others. Most importantly, have fun! If you are not enjoying what you do, let’s discuss why and how we can change that.</p>
+</div>
+<div id="expectations" class="section level2 unnumbered hasAnchor">
+<h2>Expectations<a href="index.html#expectations" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>Recognize that everyone regardless of job title is here to learn and wants to grow.</li>
+<li>Be good members of our communities, both scientific and geographic.</li>
+<li>Feel comfortable reaching out to PIs or others in the group if you feel something could be improved, or if you feel like something inappropriate (scientific, organizationally, or interpersonal) may be going on.</li>
+<li>Spend our time and the funds of our supporters wisely.</li>
+<li>Read the literature continuously to become an expert on areas you are working on. This is true for everyone in the lab, and particularly for graduate students and postdocs.</li>
+<li>Attendance of all EPPIcenter meetings and respective lab meetings (preference for in person attendance).</li>
+<li>We adhere to the principles of open science - sharing code, protocols, methods, data, and results.</li>
+<li>Specifically we expect all publications to be submitted to a preprint server like <a href="https://www.biorxiv.org/">bioRxiv</a> as soon and freely as you can accurately and ethically do so.</li>
+<li>We promote the submission of all research to <a href="https://doaj.org/">open access journals</a>.</li>
+<li>We expect a high degree of rigor and reproducibility in all aspects of data generation and analysis.</li>
+<li>Published work should be accompanied with the code and data necessary for reproducibility. We recommend sharing this information on a GitHub repository with software developed in the lab will reside on the <a href="https://github.com/EPPIcenter">EPPIcenter GitHub</a> repository.</li>
+</ul>
 
+</div>
 </div>
             </section>
 
@@ -229,15 +245,15 @@ div.csl-indent {
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
-"facebook": true,
+"github": true,
+"facebook": false,
 "twitter": true,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
 "whatsapp": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["twitter", "github", "linkedin"]
 },
 "fontsettings": {
 "theme": "white",
