@@ -1,0 +1,7 @@
+# Sequencing Data Best Practices `r emoji("pushpin")`
+
+*Where to put data, how does it link to metadata? How to manage old data?* 
+
+
+SampleDB and its Data Manager Utility is currently still under construction 🚧.  
+For now, please store raw sequencing data in the Mines following the following guidelines: 
