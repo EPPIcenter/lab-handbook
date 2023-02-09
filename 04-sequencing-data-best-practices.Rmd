@@ -1,13 +1,23 @@
-
-```{r, include=FALSE}
-#Load necessary libraries
-library(emojifont)
-```
-
-# Sequencing Data Best Practices `r emoji("pushpin")`
+# Sequencing Data Best Practices 📌
 
 *Where to put data, how does it link to metadata? How to manage old data?* 
 
-
-SampleDB and its Data Manager Utility is currently still under construction 🚧.  
+SampleDB and its Data Manager Utility is currently still under construction 🚧. 
 For now, please store raw sequencing data in the Mines following the following guidelines: 
+
+## Raw sequencing data 
+Please store raw sequencing data in the mines in the following format: 
+`sequencing_data/YYYYMMDD/some_filename.gz`
+
+### Folder names 
+**Date**: The `YYMMDD` date should be the sequencing run start date
+
+**Biohub**<br />
+`YYMMDD_Sequencer_RunNumber_FlowCellSerialNumber`<br />
+Example folder name: <br />
+`221006_VH00444_149_AAATC37HV`<br />
+
+**In-house:** Make the folder name manually and be diligent about removing or renaming erroneously demuxed data. Here we emulate the folder naming structure used by Biohub.<br /> 
+`YYMMDD_Sequencer_RunNumber_FlowCellSerialNumber`<br />
+Example folder name:<br /> 
+`221006_MiniSeqRR_1`<br />

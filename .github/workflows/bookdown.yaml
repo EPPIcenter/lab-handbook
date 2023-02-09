@@ -33,9 +33,6 @@ jobs:
           extra-packages: any::bookdown, local::.
           needs: website
 
-      - name: Install packages
-        run: Rscript -e 'install.packages(c("emojifont"))'
-        
       - name: Build site
         run: bookdown::render_book("index.Rmd")
         shell: Rscript {0}
