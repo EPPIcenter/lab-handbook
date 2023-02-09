@@ -11,3 +11,5 @@ ordering-reimbursements-eppicard-and-myexpense
 working-in-the-wetlab
 computational-resources
 sequencing-data-best-practices
+raw-sequencing-data
+folder-names
