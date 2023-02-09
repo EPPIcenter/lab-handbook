@@ -10,3 +10,4 @@ lab-communication
 ordering-reimbursements-eppicard-and-myexpense
 working-in-the-wetlab
 computational-resources
+sequencing-data-best-practices
