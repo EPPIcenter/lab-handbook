@@ -1,3 +1,9 @@
+
+```{r, include=FALSE}
+#Load necessary libraries
+library(emojifont)
+```
+
 # Sequencing Data Best Practices `r emoji("pushpin")`
 
 *Where to put data, how does it link to metadata? How to manage old data?* 
