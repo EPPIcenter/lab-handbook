@@ -30,3 +30,4 @@ stack-overflow-for-teams
 sequencing-data-best-practices
 raw-sequencing-data
 folder-names
+open-science
