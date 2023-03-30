@@ -18,13 +18,13 @@ There are several housekeeping items to take care of.
 12. Set up your computer with UCSF required suite of [security software](https://it.ucsf.edu/how-to/ucsf-it-security-suite).
 
 
-## COVID Information
+## COVID Information 😷
 - Masking requirements change. We must adhere to both the [UCSF](https://coronavirus.ucsf.edu/) and [ZSFG](https://www.sfdph.org/dph/comupg/knowlcol/OHSatZSFG/OccupationalHealthServices.asp) guidelines
 - If you have respiratory symptoms, stay home, self test, or visit an occupational health recommended site
 - Testing resources available at UCSF:  https://coronavirus.ucsf.edu/testing
 - Report a COVID-19 infection to Occupational Health Services through this [link](https://forms.office.com/pages/responsepage.aspx?id=z8LVIj7OPUSaf9_MAjH3PzN_13OidTxJhzNaN8McZ1tUMFFZSzc0VklUTUg3Q1JQNE5TUzlEUkRGUyQlQCN0PWcu) or call 628-206-4100
 
-## EPPIcenter Meetings 
+## EPPIcenter Meetings 📅
 There are several standing meetings on your Outlook calendar. Meetings specific to your role will also be added. Everyone attends the Friday meeting, Malaria Meeting, the monthly seminar.  Project specific meetings and 1:1 meetings with PIs may be standing, or scheduled as needed depending on PI’s preference. 
 
 **Friday EPPIcenter meeting**
@@ -46,17 +46,17 @@ Each PI may have different preferences for their primary mode of communication, 
 
 Slack is the primary mode of communication for the large EPPIcenter group, and the best tool for announcements and discussions. We are able to add collaborators as single-channel users, to hold discussions with a wider group. 
 
-Asana is our primary tool for project management. You may be assigned tasks in Asana if your supervisor prefers.
+Asana <img src="./images/asana.png" width="20" /> is our primary tool for project management. You may be assigned tasks in Asana if your supervisor prefers.
 
-**Slack**
+**Slack** <img src="./images/slack.png" width="20" />
 We love [EPPIcenter slack](https://join.slack.com/t/eppicenter/shared_invite/zt-jwk46vlu-OlEWxROxsjUIAZs33sz__w)!! We use it a lot. Please [review best practices](https://docs.google.com/document/d/1gGLzXYtGEE7kjkQlX4MU3LEk60P-QCi-eUBIas6nyvQ/edit?usp=sharing). Please do not create new direct message groups unless absolutely necessary; use a channel and include everyone involved. 
 
 There is a “#where” channel on Slack, which is mostly for post-docs and PIs to let the team know when they will not be in person. If you are working from home, you do not have to tell us where you are or why you are working from home in the #where channel; we expect you to stay in contact with project leads, and we trust you to complete your work. If you would prefer to let people know, go ahead! 
 
-[**UCSF Box**](https://it.ucsf.edu/how-to/box-drive)
+[**UCSF Box**](https://it.ucsf.edu/how-to/box-drive) <img src="./images/box.png" width="20" />
 Where we keep and share files securely. Access it at My Access. Download the Box Drive application to your device. It will save you headaches later.  Ask Teresa to invite you to EPPIadmin. There are other folders specific to different projects (PRISM, Serology etc..) You may need to remind your teammates that you need access.
 
-**Zoom**
+**Zoom** <img src="./images/zoom.png" width="20" />
 Download the [zoom app](https://it.ucsf.edu/service/zoom-web-conferencing) to your desktop. Login to your UCSF zoom account on My Access and set up your personal zoom room. Add your link to [our zoom rooms](https://docs.google.com/spreadsheets/d/1VmYGoXNkYjSO7IoD3dWUgJw1y8fKJUQm6ucRfu8AKL0/edit?usp=sharing).
 
 Communicating and meeting with Bryan
@@ -74,7 +74,7 @@ Communicating and meeting with Bryan
 
 - **EPPIcard** when a speedchart won’t work. Get PI or Teresa’s approval. Details pinned in #ordering. Immediately record in [EPPIcard](https://docs.google.com/spreadsheets/d/1R4dvfFYu_PS2yGAtvMxJmXffS3iTwL99c29NYJ4NMds/edit?usp=sharing) Put receipt in Box [EPPIcard invoices](https://ucsf.box.com/s/2flncs9a7djey8kwyun8qc1rcgevfky2). Do NOT use for travel (flights, hotels, or conf fees)
 
-- **Travel** 
+- **Travel** ✈️
 Work travel includes travel for conferences and for on-site research supervision or training. There are two options for booking flights, through Connexus/UC Travel office (which charges a speedtype and automatically enrolls you in travel insurance) or on your own credit card with reimbursement after the trip ends. If the trip is being charged to a federal grant, you may be required to use a US Carrier depending on where you are flying: [Fly America Act](https://www.gsa.gov/policy-regulations/policy/travel-management-policy/fly-america-act). You can use codeshare flights like Delta/KLM. If you book your flight independently, you must register for UC Travel insurance: [register](https://rmis.ucsf.edu/business-travel-insurance). 
 
   - Request a [travel cash advance](https://rmis.ucsf.edu/business-travel-insurance), and keep records of what you spend. Photo your receipts and forward them to [My expense](https://rmis.ucsf.edu/business-travel-insurance), either by email or through the Concur App. Our approver is Edward Wiedemann. Avoid paying other people’s expenses while traveling (lodging, food). It makes the reimbursement process more difficult. Alcohol is almost never reimbursable; put it on a separate receipt, or you will have to allocate the receipts to indicate that those items are personal expenses. 
