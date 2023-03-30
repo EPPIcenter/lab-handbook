@@ -1,1 +1,91 @@
 # Working in the Wetlab
+
+- Agenda for Monday meeting:  [wetlab working doc](https://docs.google.com/document/d/1K3uamBw6rDOgXE29ZmL0mdC_nzqp43c30sgeDOg8FTM/edit?usp=sharing). 
+- Schedule a time to used shared equipment: DEM Shared equipment [calendar](https://teamup.com/ks793ae219ab6b3604)
+- Ask for an invite to 5th floor Labbies Slack to communicate between the labs 
+- Locate safety showers, eyewash stations, fire extinguishers, & emergency exit 🚿🥽🧯
+- Greenhouse Lab SOP (Standard Operating Procedure) binder is at the end of bench #55 📒
+- No food or drink in the lab area. Really. Ever!! Not even in the drawers. 🚫🍔🥤
+- Use proper PPE. Gloves, coats, masks, and eye protectors when handling biologicals, reagents, or equipment 🧤🥼🥽
+- Change gloves often to cut down on contamination of samples.
+- Add incoming chemicals to BUA inventory. Remove emptys from inventory. Check with lab manager
+- Return equipment to its proper place when you’re done.
+- If you turn it on, turn it off. Especially AC in building 100
+- Close and lock refrigerator and freezer doors. ❄️
+- Close biohazard container lids. ☣️
+- Recycle paper, all plastics, cardboard, tip boxes in blue bin ♻️
+- When in doubt, please ask your lab manager or coworkers for best practices and procedures
+- Lab address for mailroom on 6th floor: 1001 Potrero Ave, Bldg 3 Room 607, San Francisco CA 94110 Include “Attn: name and phone #” as the first line of the address. 📫
+
+
+## Wet lab spaces
+Our wetlab is organized in 3 spaces where certain experiments can be conducted (see below more on avoiding contaminations). When in doubt, check with co-workers. 
+
+1. The main area is called Pre-PCR (main lab in Bldg 3). This space is dedicated to storage and processing of samples (e.g. blood, swabs) and is free of amplification products. Processing of samples includes reorganization, extraction of nucleic acids or other macromolecules, reactions that do not involve DNA amplification, and mixing amplification reactions prior to amplification. 
+2. We also have an XNA-free (nucleic acid free) room. No samples containing XNA (blood, swabs, etc), or extracted XNA are allowed in this room, the only exception are short oligos/primers. The XNA-free room has a PCR Workstation where mixing of reagents must be performed. No open reagent tubes are allowed in the benches in this room; all work must be done in the Workstation. 
+3. Our PCR room is located in Bldg 100. Any PCR or other XNA amplification reactions need to be performed in this room.  
+
+## Cleaning and Organization 
+Keep our work area clean and organized to avoid contamination, sample loss, and unreliable data. Keep benches organized and wipe  with 70% ethanol after completing your work. Wear blue disposable gown when entering PRC room #532 and remove your gown when leaving. Pre-PCR hoods are treated with UV light after every use (usually the hood has a timer for 15 min). Be a good roommate: dispose of your waste, empty ice buckets, put reagents away.  If something is left out - don't work around it and accumulate junk. Replace the paper drop cloth as appropriate. Shared equipment, like pipettes should be returned to their ‘home’.
+
+
+Communal spaces have cleaning assignments and protocol on alternating Fridays. [Decontamination Schedule](https://docs.google.com/spreadsheets/d/1tAWuJy4sCTDN73aqoVwtMzF3-7zwHBTj2Uy7P8HyHH8/edit#gid=0). 
+
+## Ordering supplies for the wetlab
+We use [Quartzy](https://app.quartzy.com/groups/180226/)  to order reagents and lab supplies. If you can’t find it on Quartzy, send information( cat #, amnt, etc) in #ordering channel. Timelines can be days, weeks or months. Order in advance.  
+
+## Receiving shipped samples 📦 
+When **any** box of samples arrives, it must be immediately dealt with. Contact the person who arranged the shipment and is waiting for the samples to let them know it has arrived and what temperature to store the samples at. If they are not onsite, discuss who will perform the following steps: 
+
+1. Open the [incoming shipments key](https://docs.google.com/spreadsheets/d/1HcgO3yWgACQo19XaD5XUaA4QLE3eLy5dVGI2e8z53-c/edit), add a line for the items, and link it to the file in Box (login and generate a link). The key must be done immediately, this is how we know what we have received. Add notes indicating how you handled the samples, and who will be updating Sample DB within 48 work hours.
+2. Upload the samples into SampleDB within 48h of arrival. 
+
+## Receiving other supplies
+When **any** box arrives, make sure it is dealt with. Reagents and supplies may be temperature sensitive. Get them in the correct storage condition (usually found on the box/container, and if not on the reagent itself), and notify the owner. Add your name and date on packing slip, put on Charles’ bench. 
+
+## Sequencing
+Next Generation Sequencing is an integral part of our work at the EPPIcenter. To keep data reliable and accurate while sequencing thousands of samples, please keep the following things in mind. To keep track of samples and linked metadata we have the following [guidelines](https://docs.google.com/document/d/1tfiGEI4h9XMH8JUIUgtN-457TtgXcHk-OdQoSYB7nko/edit). Before every sequencing library prep, fill out an experimental plan detailing what sequencing indexes you are using. Since we may sequence thousands of samples at a time, it is important to coordinate what indexes you are using with other experiments that may be sequenced in the same run using the [index inventory](https://docs.google.com/spreadsheets/d/1OGBYJu0m3CHzM1fOpXl6GJq0HiGWwwVP6zu4pjX848E/edit#gid=1004036410) (you must avoid overlap). Once you finish preparing your samples for sequencing, coordinate with other members of the lab to get a superpool ready for sequencing using the [EPPIseqpools sheet](https://docs.google.com/spreadsheets/d/1f0thqotluFOchgPyejxnbcLxyINgLG5utymrpCQqPQU/edit#gid=0). 
+
+## Lab Notebook 📖🌐
+We use Benchling, a digital lab notebook to keep track of experiments. Detailed and properly labeled notes are vital to keeping track of samples and data. Our standards for naming each experiment can be found [here](https://docs.google.com/document/d/1tfiGEI4h9XMH8JUIUgtN-457TtgXcHk-OdQoSYB7nko/edit). You may use a physical notebook as well, but all entries should conform to our lab notebook guidelines. UCSF owns your notebook. If you want to keep a copy, use one that makes copies as you go.
+
+## SampleDB
+Our sample tracking database, in which all samples in the lab can be found. This includes micronics tubes with extracted DNA/plasma/serum/etc, cryovials, and dried blood spots. When you move from one sample type to another (for example, extracting DNA from DBS into micronics tubes), the information about those samples must be linked to the samples and the micronics plate scanned into SampleDB **on that day**. In addition, when samples are moved from plate to plate or box to box, plate maps or box maps should be updated immediately. Ensure the samples are linked to the proper study, and follow the naming guidelines for the study. (guidelines  [here](https://docs.google.com/document/d/1tfiGEI4h9XMH8JUIUgtN-457TtgXcHk-OdQoSYB7nko/edit).)
+
+- Link to EPPIcenter SampleDB: [http://128.218.162.121:3838/sampleDB/sampleDB/](http://128.218.162.121:3838/sampleDB/sampleDB/)
+- Tutorials on SampleDB:[ SampleDB Upload Protocols](https://docs.google.com/document/d/1Jr80tNhJxitorNGU0z2QJWZgEAw26FQhdGcOMobjFi4/edit?usp=sharing)
+- Github page: [https://github.com/EPPIcenter/sampleDB-rpackage](https://github.com/EPPIcenter/sampleDB-rpackage)
+
+## Contaminations
+Contaminations in wet lab spaces can be very expensive, cause loss of valuable samples and data, and delay projects. For example, library contaminations can easily cost over $10,000 only in sequencing run reagents. Samples collected in the field, and some generated in our lab, cannot be replaced and contamination could make whole projects unviable. Contamination is not always easy to spot, and months (or more) of work may be lost if contamination is not prevented or detected promptly. In conjunction with mislabeling and poor note taking, contamination is hard to detect and could lead to misleading results and ultimately retraction of published studies. 
+
+
+For these reasons, extra care needs to be taken when working with samples in our lab. Contamination can happen at various levels, and some examples include:
+
+
+- Raw samples: blood spots contaminated with blood from other samples, or nucleic acids or other macromolecules extracted and concentrated. 
+- Extracted macromolecules: extracts cross-contaminated with extracts from other samples, or with concentrated extracts or reaction products
+- DNA libraries: one of the most likely, as DNA is very concentrated in these reactions and cross-contaminations can lead to high concentration of contaminants
+- Reagents: where reagents, including water, master mixes, and others, are contaminated with exogenous molecules 
+- Equipment and consumables: all equipment and surfaces can be contaminated. This includes pipets, boxes of tips, magnetic racks, etc. 
+- You: we work with human samples and thus, each of us is a potential contaminant. This is most critical in studies where information from humans (as opposed to pathogens) is retrieved. 
+
+To avoid contamination, the following measures are required:
+
+- Physical separation of XNA-free, pre-PCR and PCR areas to avoid PCR amplicon and XNA contamination at all costs. (see above)
+  - Reagents/materials move unidirectionally (XNA-free → pre-PCR → PCR). Nothing goes back, including pipets, ice buckets, reagents, etc. 
+  - XNA is completely XNA-free, with the exception of oligos/primers. 
+  - Pre-PCR is completely free of amplicons (from any reaction that amplifies DNA) and their products. No exceptions. No temporary storage. 
+  - Importantly, PPE also should follow this unidirectional flow. E.g, do not bring gloves from PCR to Pre-PCR.
+  - Equipment and materials are dedicated to each room and they should be clearly labeled as such. Reagents and consumables to be used in XNA-free or Pre-PCR need to be taken to those rooms directly after receiving. Exceptions:
+    - Ice. A dedicated ice bucket can leave the XNA room. It should be held with one hand and the other hand can be used to pour ice into the bucket. 
+    - Ice and cold racks to transport samples in the unidirectional flow. Racks should be taken into the next ‘level’ only when necessary and should not be touched with potentially contaminated PPE. They should be placed over a paper towel or other non-potentially contaminated material and not directly on the surfaces. And they should be taken back to their room as soon as possible and with clean gloves. 
+  - Rotation of index primers so the same indices are not used twice in a short period of time. This will help identifying potential contaminations
+  - Workstations and surfaces should be wiped with 70% ethanol before and after use
+  - All reagents should be aliquoted into single-use tubes when possible. Or as close to single-use as possible. 
+  - Change gloves frequently to avoid cross-contaminations
+  - If splashes occur, [decontaminate](https://docs.google.com/spreadsheets/d/1tAWuJy4sCTDN73aqoVwtMzF3-7zwHBTj2Uy7P8HyHH8/edit#gid=0) the surface/instrument properly and promptly (see tab labeled “instructions”)
+  - Pay extra attention to pipetting  and potential droplets jumping or dropping into other samples.
+  - If you notice that a piece of equipment is malfunctioning, let the lab manager (Charles Le) know as soon as possible, so that it can be fixed. This is especially important with multichannel and high throughput pipetting instruments where tips or liquids can drop. 
+
+
