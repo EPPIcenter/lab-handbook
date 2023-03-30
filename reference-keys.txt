@@ -9,6 +9,15 @@ eppicenter-meetings
 lab-communication
 ordering-reimbursements-eppicard-and-myexpense
 working-in-the-wetlab
+wet-lab-spaces
+cleaning-and-organization
+ordering-supplies-for-the-wetlab
+receiving-shipped-samples
+receiving-other-supplies
+sequencing
+lab-notebook
+sampledb
+contaminations
 computational-resources
 sequencing-data-best-practices
 raw-sequencing-data
