@@ -1,6 +1,5 @@
 --- 
 title: "EPPIcenter Lab Handbook"
-author: "Friendly folks at EPPIcenter"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
