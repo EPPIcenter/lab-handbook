@@ -19,6 +19,14 @@ lab-notebook
 sampledb
 contaminations
 computational-resources
+wynton
+aragorn
+the-mines
+nextflow
+installing-software
+github
+docker-hub
+stack-overflow-for-teams
 sequencing-data-best-practices
 raw-sequencing-data
 folder-names
