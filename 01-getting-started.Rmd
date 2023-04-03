@@ -25,12 +25,12 @@ There are several housekeeping items to take care of.
 - Report a COVID-19 infection to Occupational Health Services through this [link](https://forms.office.com/pages/responsepage.aspx?id=z8LVIj7OPUSaf9_MAjH3PzN_13OidTxJhzNaN8McZ1tUMFFZSzc0VklUTUg3Q1JQNE5TUzlEUkRGUyQlQCN0PWcu) or call 628-206-4100
 
 ## EPPIcenter Meetings 📅
-There are several standing meetings on your Outlook calendar. Meetings specific to your role will also be added. Everyone attends the Friday meeting, Malaria Meeting, the monthly seminar.  Project specific meetings and 1:1 meetings with PIs may be standing, or scheduled as needed depending on PI’s preference. 
+There are several standing meetings on your Outlook calendar. Meetings specific to your role will also be added. Everyone attends the Friday EPPIcenter lab meeting, the Tuesday Malaria Meeting, and the monthly EPPIcenter seminar. Project specific meetings and 1:1 meetings with PIs may be standing, or scheduled as needed depending on PI’s preference. 
 
-**Friday EPPIcenter meeting**
+**Friday EPPIcenter lab meeting**
 [Schedule](https://docs.google.com/spreadsheets/d/1YYfNd1G93Qqgbf2S-gDEu23JhrtJOm0FwskoDZGqwKc/edit?usp=sharing). We prefer you attend in-person. At the moment we share lunch (provided) on the 2nd Friday of the month. After announcements (abstract deadlines, events, new papers), a rotating subset of people will provide a 1-5 minute update on their research (and life, if they’d like!). Then the person assigned to present that day will discuss a research project or a paper for 40-45 minutes.  Announce papers early in the week to allow everyone to read and critically think about the paper.
 
-**Monthly Seminar Series** All are expected to attend. These are curated experiences that bring you in contact with leaders in their field. The typical format is an hour-long talk (open to the general public) followed by 30 minutes of Q&A (closed to our lab only). As an example—Trevor Bedford kicked off the series *before* COVID made him famous. 
+**Monthly EPPIcenter Seminar Series** All are expected to attend. These are curated experiences that bring you in contact with leaders in their field. The typical format is an hour-long talk (open to the general public) followed by 30 minutes of Q&A (closed to our lab only). As an example—Trevor Bedford kicked off the series *before* COVID made him famous. 
 
 **Bay Area Malaria Meeting** [Schedule](https://docs.google.com/spreadsheets/d/1rbsZsF4s6FoEHHqlyF2kO6J3m0H74vyWXMsBcdol-AY/edit?usp=sharing). Brings you in contact with malaria researchers across multiple UCSF campuses and institutions. Convenes alternate Tuesdays.
 
@@ -44,7 +44,7 @@ There are several standing meetings on your Outlook calendar. Meetings specific 
 ## Lab Communication
 Each PI may have different preferences for their primary mode of communication,  please check with your supervisor. Members should add vacation/out days on the  [EPPIcenter Google calendar](https://calendar.google.com/calendar/embed?src=vb5mcl4ocpvcelcr9asemnofi4%40group.calendar.google.com&ctz=America%2FLos_Angeles), so the group can plan.  
 
-Slack is the primary mode of communication for the large EPPIcenter group, and the best tool for announcements and discussions. We are able to add collaborators as single-channel users, to hold discussions with a wider group. 
+Slack is the primary mode of communication for the larger EPPIcenter group, and the best tool for announcements and discussions. We are able to add collaborators as single-channel users, to hold discussions with a wider group. 
 
 Asana <img src="./images/asana.png" width="20" /> is our primary tool for project management. You may be assigned tasks in Asana if your supervisor prefers.
 
@@ -59,7 +59,24 @@ Where we keep and share files securely. Access it at My Access. Download the Box
 **Zoom** <img src="./images/zoom.png" width="20" />
 Download the [zoom app](https://it.ucsf.edu/service/zoom-web-conferencing) to your desktop. Login to your UCSF zoom account on My Access and set up your personal zoom room. Add your link to [our zoom rooms](https://docs.google.com/spreadsheets/d/1VmYGoXNkYjSO7IoD3dWUgJw1y8fKJUQm6ucRfu8AKL0/edit?usp=sharing).
 
-Communicating and meeting with Bryan
+## Communicating and meeting with Bryan
+
+*One-on-one and small group meetings**
+One-on-one and small group meetings related to projects are a valuable time to review your progress, discuss next steps, and discuss how I can best continue to support you. To make these meetings the most productive for both of us, please follow these principles.
+
+- Come to each meeting prepared with an agenda. This can be in the form of slides, a text document, or another format, but should clearly communicate what your goals were since our last meeting, what you have worked on towards each of those goals, and what your plans are next. Focus your agenda on the areas I can help you, and have specific questions prepared for us to discuss. This will be a better use of your time than reviewing everything you have done since our last meeting.
+
+- These meetings are a great time to share results and discuss them together. For any figures (or other results) you are showing me or others, make sure you can communicate why you made the figure, what you did, and what you think it means even if you are not sure. Please have all results generated in advance and put into a slideshow or other document. Feel free to prioritize the key results and have additional ones you’ve made set aside in case we want to review. Generating figures in real time (e.g. sharing your R console as you run code) should be reserved for additional questions that come up during our discussion, if at all.
+
+- Document what we discuss. In particular, make sure you have a clear idea about next steps. If you are unsure about any action items at the end of our meeting or thereafter, please clarify with me.
+
+- One-on-one meetings are also a good time to discuss career goals and development. These discussions should happen at least a few times per year, and you are welcome to bring up these topics at our meetings more frequently. When you do, add them to your agenda and consider starting with them so they are allotted appropriate time for discussion.
+
+**General Communications**
+- Slack is my preferred mode for routine, asynchronous communication. I usually check and respond to Slack messages within a few hours during work days unless I am on vacation, traveling, or have a particularly limited schedule. If I haven’t responded within 24 hours feel free to message me again.
+- If you need to reach me during times I am not checking Slack or if something is particularly timely, please text me at 415-317-2263.
+- If you send or forward me an email that I should read and I haven’t responded within 48 hours, please let me know about the email via Slack or text message (depending on whether I am traveling). 
+- To schedule a meeting with me, first check my availability on Outlook calendar and then Slack me to confirm a time. Early to mid afternoon is generally my preferred time for meetings that do not involve other time zones. For group meetings, I have found [when2meet](https://www.when2meet.com/) to work well. 
 
 
 ## Ordering & Reimbursements (EPPIcard and MyExpense) 
