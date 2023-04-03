@@ -6,12 +6,46 @@ Wynton is a large, shared high performance computer cluster that is available to
 - [Wynton Home](https://wynton.ucsf.edu/hpc/index.html) 
 - How to [get an account](https://wynton.ucsf.edu/hpc/about/join.html) 
 - [Log in without password](https://wynton.ucsf.edu/hpc/howto/log-in-without-pwd.html) (optional but useful) 
-- Learn about [Wynton](https://wynton.ucsf.edu/hpc/index.html)  and [Wynton tutorial](https://github.com/ucsf-wynton/tutorials/wiki)
+- Learn about [Wynton](https://wynton.ucsf.edu/hpc/index.html) and [Wynton tutorial](https://github.com/ucsf-wynton/tutorials/wiki)
 - [Join](https://wynton.ucsf.edu/hpc/support/index.html)  Wynton slack (optional)            
 - Join bioinf_genepitools EPPIcenter Slack channel 
-- Which node to use for what (log vs. dev vs. data transfer)
-- Using scratch drive 
 
+### Wynton Best Practices
+
+If you plan to use wynton, you should know about the following.
+
+#### Login vs Development vs Data Transfer Nodes
+
+The login (`log`) node is where users can submit jobs or transfer to other nodes, such as [development nodes](https://wynton.ucsf.edu/hpc/get-started/development-prototyping.html). While submitting jobs to the job scheduler is okay, running software on these nodes is not advised.
+
+The development (`dev`) node is where users *may* run quick tests. This is also the node where you may access [prepackaged software](https://wynton.ucsf.edu/hpc/software/software-modules.html) already available on wynton, or install your own software locally. You can access this node by signing into the login node, and then enter:
+
+```bash
+ssh dev1
+```
+
+to log onto the dev node. There are [multiple dev nodes](https://wynton.ucsf.edu/hpc/get-started/development-prototyping.html) so if `dev1` is not available, there may be an alternative.
+
+The data transfer (`dt`) node should be used if transferring files to and from wynton. 
+
+
+#### Scratch Drive
+
+There is local (`/scratch`) and global (`/wynton/scratch`) scratch space.
+
+##### Local
+
+Local scratch should be used to hold intermediate files produced by your scripts. This is a much faster drive space that is local to the node you are using to run your script. 
+
+##### Global
+
+Global scratch is accessible by all nodes and is where you should keep your large files or store results to be shared with others. To use this space, it is recommended to use the following command to create a folder with your username so that your work can be isolated from others:
+
+```bash
+mkdir "/wynton/scratch/$(whoami)"
+```
+
+As an example, if your username is `jonsnow`, you would now have a folder for your work under `/wynton/scratch/jonsnow`. 
 
 ## Aragorn <img src="./images/aragorn.png" width="20" />  
 Aragorn is a moderately powerful desktop computer housed in our lab (built in 2014) that can be used for small workloads. Generally, if you can run it on your relatively new laptop but don't want to tie up using your computer, Aragorn is a good alternative. However, it is limited in its ability, and should only really be used for short term usage. Longer term jobs (up to 2 weeks) should be run on Wynton. 
