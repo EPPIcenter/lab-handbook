@@ -1,4 +1,4 @@
-# Sequencing Data Best Practices 📌
+# Sequencing Data Best Practices 🚧
 
 *Where to put data, how does it link to metadata? How to manage old data?* 
 
