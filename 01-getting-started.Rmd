@@ -76,10 +76,12 @@ One-on-one and small group meetings related to projects are a valuable time to r
 **General Communications**
 
 - Slack is my preferred mode for routine, asynchronous communication. I usually check and respond to Slack messages within a few hours during work days unless I am on vacation, traveling, or have a particularly limited schedule. If I haven’t responded within 24 hours feel free to message me again.
-- If you need to reach me during times I am not checking Slack or if something is particularly timely, please text me at 415-317-2263.
-- If you send or forward me an email that I should read and I haven’t responded within 48 hours, please let me know about the email via Slack or text message (depending on whether I am traveling). 
-- To schedule a meeting with me, first check my availability on Outlook calendar and then Slack me to confirm a time. Early to mid afternoon is generally my preferred time for meetings that do not involve other time zones. For group meetings, I have found [when2meet](https://www.when2meet.com/) to work well. 
 
+- If you need to reach me during times I am not checking Slack or if something is particularly timely, please text me at 415-317-2263.
+
+- If you send or forward me an email that I should read and I haven’t responded within 48 hours, please let me know about the email via Slack or text message (depending on whether I am traveling). 
+
+- To schedule a meeting with me, first check my availability on Outlook calendar and then Slack me to confirm a time. Early to mid afternoon is generally my preferred time for meetings that do not involve other time zones. For group meetings, I have found [when2meet](https://www.when2meet.com/) to work well. 
 
 ## Ordering & Reimbursements (EPPIcard and MyExpense) 
 
@@ -110,4 +112,5 @@ Work travel includes travel for conferences and for on-site research supervision
 - Make sure your immunizations are appropriate. Some take more than 1 shot, spaced apart. 
 - Laptop: get a UCSF IT note saying the UCSF encryption software is legal if you are traveling to a country where customs examines computers for encryption. For travel to Uganda, you do not need this.
 - It is possible to link your Uber account to MyExpense.
+
 
