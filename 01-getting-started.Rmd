@@ -59,9 +59,10 @@ Where we keep and share files securely. Access it at My Access. Download the Box
 **Zoom** <img src="./images/zoom.png" width="20" />
 Download the [zoom app](https://it.ucsf.edu/service/zoom-web-conferencing) to your desktop. Login to your UCSF zoom account on My Access and set up your personal zoom room. Add your link to [our zoom rooms](https://docs.google.com/spreadsheets/d/1VmYGoXNkYjSO7IoD3dWUgJw1y8fKJUQm6ucRfu8AKL0/edit?usp=sharing).
 
-## Communicating and meeting with Bryan
+### Communicating and meeting with Bryan
 
-*One-on-one and small group meetings**
+**One-on-one and small group meetings**
+
 One-on-one and small group meetings related to projects are a valuable time to review your progress, discuss next steps, and discuss how I can best continue to support you. To make these meetings the most productive for both of us, please follow these principles.
 
 - Come to each meeting prepared with an agenda. This can be in the form of slides, a text document, or another format, but should clearly communicate what your goals were since our last meeting, what you have worked on towards each of those goals, and what your plans are next. Focus your agenda on the areas I can help you, and have specific questions prepared for us to discuss. This will be a better use of your time than reviewing everything you have done since our last meeting.
@@ -73,6 +74,7 @@ One-on-one and small group meetings related to projects are a valuable time to r
 - One-on-one meetings are also a good time to discuss career goals and development. These discussions should happen at least a few times per year, and you are welcome to bring up these topics at our meetings more frequently. When you do, add them to your agenda and consider starting with them so they are allotted appropriate time for discussion.
 
 **General Communications**
+
 - Slack is my preferred mode for routine, asynchronous communication. I usually check and respond to Slack messages within a few hours during work days unless I am on vacation, traveling, or have a particularly limited schedule. If I haven’t responded within 24 hours feel free to message me again.
 - If you need to reach me during times I am not checking Slack or if something is particularly timely, please text me at 415-317-2263.
 - If you send or forward me an email that I should read and I haven’t responded within 48 hours, please let me know about the email via Slack or text message (depending on whether I am traveling). 
@@ -108,5 +110,4 @@ Work travel includes travel for conferences and for on-site research supervision
 - Make sure your immunizations are appropriate. Some take more than 1 shot, spaced apart. 
 - Laptop: get a UCSF IT note saying the UCSF encryption software is legal if you are traveling to a country where customs examines computers for encryption. For travel to Uganda, you do not need this.
 - It is possible to link your Uber account to MyExpense.
-
 
