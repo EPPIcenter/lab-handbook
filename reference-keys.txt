@@ -7,6 +7,7 @@ getting-started
 covid-information
 eppicenter-meetings
 lab-communication
+communicating-and-meeting-with-bryan
 ordering-reimbursements-eppicard-and-myexpense
 working-in-the-wetlab
 wet-lab-spaces
@@ -20,6 +21,11 @@ sampledb
 contaminations
 computational-resources
 wynton
+wynton-best-practices
+login-vs-development-vs-data-transfer-nodes
+scratch-drive
+local
+global
 aragorn
 the-mines
 nextflow
