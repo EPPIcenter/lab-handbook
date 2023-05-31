@@ -63,6 +63,8 @@ Aragorn is a moderately powerful desktop computer housed in our lab (built in 20
 | Storage  	| 250gb SSD + 1tb HDD | 
 | Power Supply | 430W            	| 
 
+## Arwen <img src="./images/arwen.png" width="20" />  
+
 
 ## The Mines ⛰️
 
