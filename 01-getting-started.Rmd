@@ -37,8 +37,6 @@ There are several standing meetings on your Outlook calendar. Meetings specific 
 **Wetlab meeting** Meets 9:30-10:30am Mondays to set the agenda for the week for wetlab projects.  [wetlab working doc](https://docs.google.com/document/d/1K3uamBw6rDOgXE29ZmL0mdC_nzqp43c30sgeDOg8FTM/edit?usp=sharing). 
 
 **Bioinformatics meeting** Wednesday at 2pm. This meeting is run by the bioinformaticians, attended by interested post-docs and PIs. It is a weekly meeting to update the progress made on various projects and to troubleshoot issues that have come up. Agenda: [here](https://docs.google.com/document/u/0/d/1Cl3sZ0PCqAqWtUMfv-BUmU0FEouD1hpqjFK83k6Lyjg/edit)
-
-**Lo Lab meeting** Every two weeks, typically Monday 10am every two weeks. Comprised of announcements and updates, followed by a presentation on a paper or some work in progress.
  
 
 ## Lab Communication
