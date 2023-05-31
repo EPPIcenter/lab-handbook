@@ -27,6 +27,7 @@ scratch-drive
 local
 global
 aragorn
+arwen
 the-mines
 nextflow
 installing-software
