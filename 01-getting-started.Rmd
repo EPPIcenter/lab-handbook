@@ -14,7 +14,7 @@ There are several housekeeping items to take care of.
 8. Join [EPPIcenter Google calendar](https://calendar.google.com/calendar/embed?src=vb5mcl4ocpvcelcr9asemnofi4%40group.calendar.google.com&ctz=America%2FLos_Angeles)  Any member can add you. We track vacation dates here. 
 9. Install [UCSF Duo](https://it.ucsf.edu/service/multi-factor-authentication-duo) on your phone and computer. You need Duo to access UCSF tools on [MyAccess](https://it.ucsf.edu/service/myaccess-single-sign).
 10. On campus use the `UCSF WPA` wifi—[instructions](https://it.ucsf.edu/service/ucsfwpa-secure-wireless?check_logged_in=1) if you cannot connect ask IT for help
-11. Connect printer in Building 3 Rm 607 IP: 128.218.162.117 on UCSF WPA wifi, ethernet, or VPN
+11. Connect printer in Building 3 Rm 607 hostname: UCSF-B03RM607 on UCSF WPA wifi, ethernet, or VPN
 12. Set up your computer with UCSF required suite of [security software](https://it.ucsf.edu/how-to/ucsf-it-security-suite).
 
 
