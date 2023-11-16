@@ -1,4 +1,4 @@
-# Sequencing Data Best Practices 🚧
+# Sequencing Data Best Practices 
 
 *Where to put data, how does it link to metadata? How to manage old data?* 
 
@@ -6,18 +6,19 @@ SampleDB and its Data Manager Utility is currently still under construction 🚧
 For now, please store raw sequencing data in the Mines following the following guidelines: 
 
 
-## SeekDeep sequencing data filename guidelines 
+## SeekDeep filename guidelines 
 
 **experimentIdentifier-micronics-plate-well-rep-commentInfo**
 
 1. experimentID (of some kind)
-2. micronics barcode (use NC# for negative controls) 
+2. micronics barcode (use `NC#` for negative controls) 
 3. plate name
-4. well position on plate (use A1 not A01)
-5. replicate identifier (use rep1, rep2, etc.) 
+4. well position on plate (use `A1` not `A01`)
+5. replicate identifier (use `rep1`, `rep2`, etc.) 
 6. (optional) comments, e.g. experimental conditions or other info
 
 Rules: 
+
 - Filename must consist of 5 "parts" separated by dashes "-"
 - An optional 6th field is reserved for comments and other information
 
@@ -44,11 +45,11 @@ S3A003-NC3-plate9-F11-rep2
 JDH002-NC10-PBCSMT4-G9-rep2
 ```
 
-## Raw sequencing data 
+## Raw sequencing data 🚧
 Please store raw sequencing data in the mines in the following format: 
 `sequencing_data/YYYYMMDD/some_filename.gz`
 
-### Folder names 
+### Folder names 🚧
 **Date**: The `YYMMDD` date should be the sequencing run start date
 
 **Biohub**<br />
