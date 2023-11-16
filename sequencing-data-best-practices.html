@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>4 Sequencing Data Best Practices 🚧 | EPPIcenter Lab Handbook</title>
   <meta name="description" content="This is the EPPIcenter lab handbook. The output format for this example is bookdown::gitbook." />
-  <meta name="generator" content="bookdown 0.34.2 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.36.2 and GitBook 2.6.7" />
 
   <meta property="og:title" content="4 Sequencing Data Best Practices 🚧 | EPPIcenter Lab Handbook" />
   <meta property="og:type" content="book" />
@@ -185,9 +185,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="4" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html"><i class="fa fa-check"></i><b>4</b> Sequencing Data Best Practices 🚧</a>
 <ul>
-<li class="chapter" data-level="4.1" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html#raw-sequencing-data"><i class="fa fa-check"></i><b>4.1</b> Raw sequencing data</a>
+<li class="chapter" data-level="4.1" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html#seekdeep-sequencing-data-filename-guidelines"><i class="fa fa-check"></i><b>4.1</b> SeekDeep sequencing data filename guidelines</a></li>
+<li class="chapter" data-level="4.2" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html#raw-sequencing-data"><i class="fa fa-check"></i><b>4.2</b> Raw sequencing data</a>
 <ul>
-<li class="chapter" data-level="4.1.1" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html#folder-names"><i class="fa fa-check"></i><b>4.1.1</b> Folder names</a></li>
+<li class="chapter" data-level="4.2.1" data-path="sequencing-data-best-practices.html"><a href="sequencing-data-best-practices.html#folder-names"><i class="fa fa-check"></i><b>4.2.1</b> Folder names</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="open-science.html"><a href="open-science.html"><i class="fa fa-check"></i><b>5</b> Open Science 🚧</a></li>
@@ -216,12 +217,40 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p><em>Where to put data, how does it link to metadata? How to manage old data?</em></p>
 <p>SampleDB and its Data Manager Utility is currently still under construction 🚧.
 For now, please store raw sequencing data in the Mines following the following guidelines:</p>
-<div id="raw-sequencing-data" class="section level2 hasAnchor" number="4.1">
-<h2><span class="header-section-number">4.1</span> Raw sequencing data<a href="sequencing-data-best-practices.html#raw-sequencing-data" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="seekdeep-sequencing-data-filename-guidelines" class="section level2 hasAnchor" number="4.1">
+<h2><span class="header-section-number">4.1</span> SeekDeep sequencing data filename guidelines<a href="sequencing-data-best-practices.html#seekdeep-sequencing-data-filename-guidelines" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><strong>experimentIdentifier-micronics-plate-well-rep-commentInfo</strong></p>
+<ol style="list-style-type: decimal">
+<li>experimentID (of some kind)</li>
+<li>micronics barcode (use NC# for negative controls)</li>
+<li>plate name</li>
+<li>well position on plate (use A1 not A01)</li>
+<li>replicate identifier (use rep1, rep2, etc.)</li>
+<li>(optional) comments, e.g. experimental conditions or other info</li>
+</ol>
+<p>Rules:
+- Filename must consist of 5 “parts” separated by dashes “-”
+- An optional 6th field is reserved for comments and other information</p>
+<p><em>From micronics, we can recover date, study_code, identifier, etc. from SampleDB</em></p>
+<p>Example sample filenames:</p>
+<pre><code>PBC003-8041439280-Plate2-B7-rep1
+S3A003-8041439281-SMT4-A5-rep2
+JDH002-8041439282-plate6-C12-rep1</code></pre>
+<p>Example sample filenames with optional comment field:</p>
+<pre><code>PBC003-8041439280-Plate2-B7-rep1-commentInfo
+S3A003-8041439281-SMT4-A5-rep2-commentInfo
+JDH002-8041439282-plate6-C12-rep1-commentInfo</code></pre>
+<p>Example control filenames:</p>
+<pre><code>PBC003-NC1-Plate7-E9-rep1
+S3A003-NC3-plate9-F11-rep2
+JDH002-NC10-PBCSMT4-G9-rep2</code></pre>
+</div>
+<div id="raw-sequencing-data" class="section level2 hasAnchor" number="4.2">
+<h2><span class="header-section-number">4.2</span> Raw sequencing data<a href="sequencing-data-best-practices.html#raw-sequencing-data" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Please store raw sequencing data in the mines in the following format:
 <code>sequencing_data/YYYYMMDD/some_filename.gz</code></p>
-<div id="folder-names" class="section level3 hasAnchor" number="4.1.1">
-<h3><span class="header-section-number">4.1.1</span> Folder names<a href="sequencing-data-best-practices.html#folder-names" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="folder-names" class="section level3 hasAnchor" number="4.2.1">
+<h3><span class="header-section-number">4.2.1</span> Folder names<a href="sequencing-data-best-practices.html#folder-names" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p><strong>Date</strong>: The <code>YYMMDD</code> date should be the sequencing run start date</p>
 <p><strong>Biohub</strong><br />
 <code>YYMMDD_Sequencer_RunNumber_FlowCellSerialNumber</code><br />
