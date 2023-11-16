@@ -35,7 +35,7 @@ github
 docker-hub
 stack-overflow-for-teams
 sequencing-data-best-practices
-seekdeep-sequencing-data-filename-guidelines
+seekdeep-filename-guidelines
 raw-sequencing-data
 folder-names
 open-science
