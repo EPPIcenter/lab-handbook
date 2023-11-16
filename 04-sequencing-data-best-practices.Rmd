@@ -19,8 +19,9 @@ For now, please store raw sequencing data in the Mines following the following g
 
 Rules: 
 
-- Filename must consist of 5 "parts" separated by dashes "-"
+- Filename must consist of 5 "parts" separated by dashes "`-`"
 - An optional 6th field is reserved for comments and other information
+- Do not introduce new dashes “`-`” 
 
 *From micronics, we can recover date, study_code, identifier, etc. from SampleDB*
 
