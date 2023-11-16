@@ -5,6 +5,45 @@
 SampleDB and its Data Manager Utility is currently still under construction 🚧. 
 For now, please store raw sequencing data in the Mines following the following guidelines: 
 
+
+## SeekDeep sequencing data filename guidelines 
+
+**experimentIdentifier-micronics-plate-well-rep-commentInfo**
+
+1. experimentID (of some kind)
+2. micronics barcode (use NC# for negative controls) 
+3. plate name
+4. well position on plate (use A1 not A01)
+5. replicate identifier (use rep1, rep2, etc.) 
+6. (optional) comments, e.g. experimental conditions or other info
+
+Rules: 
+- Filename must consist of 5 "parts" separated by dashes "-"
+- An optional 6th field is reserved for comments and other information
+
+*From micronics, we can recover date, study_code, identifier, etc. from SampleDB*
+
+Example sample filenames:   
+```
+PBC003-8041439280-Plate2-B7-rep1
+S3A003-8041439281-SMT4-A5-rep2
+JDH002-8041439282-plate6-C12-rep1
+```
+
+Example sample filenames with optional comment field: 
+```
+PBC003-8041439280-Plate2-B7-rep1-commentInfo
+S3A003-8041439281-SMT4-A5-rep2-commentInfo
+JDH002-8041439282-plate6-C12-rep1-commentInfo
+```
+
+Example control filenames: 
+```
+PBC003-NC1-Plate7-E9-rep1
+S3A003-NC3-plate9-F11-rep2
+JDH002-NC10-PBCSMT4-G9-rep2
+```
+
 ## Raw sequencing data 
 Please store raw sequencing data in the mines in the following format: 
 `sequencing_data/YYYYMMDD/some_filename.gz`
