@@ -1,9 +1,9 @@
 # Working in the Wetlab
 
 - Agenda for Monday meeting:  [wetlab working doc](https://docs.google.com/document/d/1xRK_oTWA6lzEmS8GXSvCeib-i73gqmoZkbLftxnhljY/edit?usp=sharing). 
-- Schedule a time to use shared equipment: [DEM Shared equipment calendar](https://teamup.com/ks793ae219ab6b3604) 📅
-- Schedule a time to use qPCR machine : [QuantStudio qPCR calendar](https://teamup.com/ksa7wprd6qf7tohpin) 📅
-- Schedule a time to use thermocyclers : [Building 100 calendar](https://teamup.com/ks9b9szhw5q25oudov) 📅
+- Schedule a time to use shared equipment: [DEM Shared equipment calendar](https://teamup.com/ks793ae219ab6b3604)
+- Schedule a time to use qPCR machine : [QuantStudio qPCR calendar](https://teamup.com/ksa7wprd6qf7tohpin)
+- Schedule a time to use thermocyclers : [Building 100 calendar](https://teamup.com/ks9b9szhw5q25oudov)
 - Ask for an invite to 5th floor Labbies Slack to communicate between the labs 
 - Locate safety showers, eyewash stations, fire extinguishers, & emergency exit 🚿🥽🧯
 - Greenhouse Lab SOP (Standard Operating Procedure) binder is at the end of bench #55 📒
