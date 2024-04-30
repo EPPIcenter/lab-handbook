@@ -33,10 +33,6 @@ There are several standing meetings on your Outlook calendar. Meetings specific 
 **Monthly EPPIcenter Seminar Series** All are expected to attend. These are curated experiences that bring you in contact with leaders in their field. The typical format is an hour-long talk (open to the general public) followed by 30 minutes of Q&A (closed to our lab only). As an example—Trevor Bedford kicked off the series *before* COVID made him famous. 
 
 **Bay Area Malaria Meeting** [Schedule](https://docs.google.com/spreadsheets/d/1rbsZsF4s6FoEHHqlyF2kO6J3m0H74vyWXMsBcdol-AY/edit?usp=sharing). Brings you in contact with malaria researchers across multiple UCSF campuses and institutions. Convenes alternate Tuesdays.
-
-**Wetlab meeting** Meets 9:30-10:30am Mondays to set the agenda for the week for wetlab projects.  [wetlab working doc](https://docs.google.com/document/d/1xRK_oTWA6lzEmS8GXSvCeib-i73gqmoZkbLftxnhljY/edit?usp=sharing). 
-
-**Bioinformatics meeting** Wednesday at 2pm. This meeting is run by the bioinformaticians, attended by interested post-docs and PIs. It is a weekly meeting to update the progress made on various projects and to troubleshoot issues that have come up. Agenda: [here](https://docs.google.com/document/u/0/d/1Cl3sZ0PCqAqWtUMfv-BUmU0FEouD1hpqjFK83k6Lyjg/edit)
  
 
 ## Lab Communication
@@ -83,7 +79,7 @@ One-on-one and small group meetings related to projects are a valuable time to r
 
 ## Ordering & Reimbursements (EPPIcard and MyExpense) 
 
-- **MyExpense** [Instructions for reimbursement](https://supplychain.ucsf.edu/sites/supplychain.ucsf.edu/files/Submitting%20Your%20Expense%20Report%20in%20MyExpense.pdf). You need the speedchart (pinned in Slack #ordering) 
+- **MyExpense** [Instructions for reimbursement](https://supplychain.ucsf.edu/claim-expenses-reimbursement). You need the speedchart (pinned in Slack #ordering) 
   - Edward Wiedemann is the approver for most grants. Add him to your account settings before start. 
   - To charge another PI’s grants, you need approver’s name and the full chartstring (not just speedchart)
   - Use the SAP concur app, and set up direct email forwarding of receipts to Concur.
