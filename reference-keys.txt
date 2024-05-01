@@ -39,4 +39,4 @@ seekdeep-filename-guidelines
 raw-sequencing-data
 folder-names
 open-science
-information-for-visiting-scholars
+information-for-international-visiting-scholars
