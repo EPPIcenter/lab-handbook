@@ -54,7 +54,7 @@ We use [Benchling](https://benchling.com/organizations/thegreenhouse/projects), 
 ## SampleDB
 Our sample tracking database, in which all samples in the lab can be found. This includes micronics tubes with extracted DNA/plasma/serum/etc, cryovials, and dried blood spots. When you move from one sample type to another (for example, extracting DNA from DBS into micronics tubes), the information about those samples must be linked to the samples and the micronics plate scanned into SampleDB **on that day**. In addition, when samples are moved from plate to plate or box to box, plate maps or box maps should be updated immediately. Ensure the samples are linked to the proper study, and follow the naming guidelines for the study. (guidelines  [here](https://docs.google.com/document/d/1tfiGEI4h9XMH8JUIUgtN-457TtgXcHk-OdQoSYB7nko/edit).)
 
-- Link to EPPIcenter SampleDB: [http://128.218.162.121:3838/sampleDB/sampleDB/](http://128.218.162.121:3838/sampleDB/sampleDB/)
+- Link to EPPIcenter SampleDB: [sampledb.eppi.center](http://128.218.162.118:3838/sampleDB/)
 - Tutorials on SampleDB:[ SampleDB Upload Protocols](https://docs.google.com/document/d/1Jr80tNhJxitorNGU0z2QJWZgEAw26FQhdGcOMobjFi4/edit?usp=sharing)
 - Github page: [https://github.com/EPPIcenter/sampleDB-rpackage](https://github.com/EPPIcenter/sampleDB-rpackage)
 
