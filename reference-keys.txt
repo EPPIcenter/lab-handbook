@@ -9,6 +9,7 @@ eppicenter-meetings
 lab-communication
 communicating-and-meeting-with-bryan
 ordering-reimbursements-eppicard-and-myexpense
+major-projects
 working-in-the-wetlab
 wet-lab-spaces
 cleaning-and-organization
