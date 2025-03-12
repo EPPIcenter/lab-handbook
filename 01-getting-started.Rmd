@@ -105,4 +105,8 @@ Work travel includes travel for conferences and for on-site research supervision
 - Laptop: get a UCSF IT note saying the UCSF encryption software is legal if you are traveling to a country where customs examines computers for encryption. For travel to Uganda, you do not need this.
 - It is possible to link your Uber account to MyExpense.
 
+## Major Projects
+
+A list of major EPPIcenter projects can be found [here](https://docs.google.com/document/d/1aHJPlvY9s7i5tMFDm-Hhi1Kjw_-t8_0Ob0ya2d5rspw/edit?tab=t.0#heading=h.qcox2zuw0fg9).
+
 
